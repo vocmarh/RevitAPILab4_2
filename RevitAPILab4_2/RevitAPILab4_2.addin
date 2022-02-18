@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"\\nut\home\s.hramcov\Desktop\RevitAPITraining\RevitAPILab4_2.dll"</Assembly>
+		<AddInId>1AF4D658-4081-4543-8E42-D9534608C203</AddInId>
+		<FullClassName>RevitAPILab4_2.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Значение всех труб из Эксель</Text>
+	</AddIn>
+</RevitAddIns>
